@@ -15,7 +15,7 @@ npm i -g truffle
 Install the relevant packages:
 
 ```
-git clone https://github.com/igibliss00/real_estate_erc721_dapp.git
+git clone https://github.com/igibliss00/decentralized-instagram.git
 npm install
 ```
 
